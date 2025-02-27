@@ -2,7 +2,7 @@
 JohnScarrow
 2/19/2025
 First Assignment
-
+Programs purpose is to combine your entered numbs in different ways
 '''
 # Comments
 print("lets add some numbs")
